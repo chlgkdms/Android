@@ -42,4 +42,4 @@ Intent를 실행함으로써, Intent의 결과가 새로운 model을 만들어�
 
 ### Reducer
 
-- Reducer을 실행시켜 새로운 모델을 만들어냄
+- Reducer을 실행시켜 새로운 모델을 만들어냄.
